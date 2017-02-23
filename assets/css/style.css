@@ -1,0 +1,192 @@
+/*
+|-------------------------------------------------
+|  JavaScript Online Chef App - Rubi Jihantoro
+|-------------------------------------------------
+|
+|  Published Under MIT
+|  Interested with my skill & creativity ? 
+|  contact jihantoro8@gmail.com
+|
+*/
+
+/* PROTOTYPE !!!! */
+
+body {
+  background-color: rgb(174, 168, 211);
+}
+.container {
+  width: 1100px;
+  margin: 25px auto;
+}
+.top-wall {
+    background: #BE6B59;
+    background: -webkit-linear-gradient(#BE6B59, #F6C4AD);
+    background: -o-linear-gradient(#BE6B59, #F6C4AD);
+    background: -moz-linear-gradient(#BE6B59, #F6C4AD);
+    background: linear-gradient(#BE6B59, #F6C4AD);
+    width: 1000px;
+    height: 300px;
+    position: absolute;
+    z-index: 0;
+    margin: 0px 50px;
+}
+.bottom-wall {
+    background: #F6C4AD;
+    background: -webkit-linear-gradient(#F6C4AD, #BE6B59);
+    background: -o-linear-gradient(#F6C4AD, #BE6B59);
+    background: -moz-linear-gradient(#F6C4AD, #BE6B59);
+    background: linear-gradient(#F6C4AD, #BE6B59);
+    width: 1000px;
+    height: 300px;
+    position: absolute;
+    z-index: 0;
+    margin: 300px 50px;
+}
+.wall-bg {
+  background: url(../../assets/img/wall-bg.png);
+  width: 1000px;
+  height: 600px;
+  z-index: 2;
+  position: absolute;
+  margin-left: 50px;
+}
+.center-egg {
+  width: 230px;
+  height: 330px;
+  position: absolute;
+  background-color: rgb(242, 242, 242);
+  border-radius: 145px 145px 150px 150px;
+  opacity: 0.2;
+  margin: 100px 0px 0px 440px;
+  z-index: 1;
+}
+.place {
+  width: 250px;
+  height: 20px;
+  border: 2px solid rgb(228, 241, 254);
+  position: absolute;
+  border-top: 0px solid transparent;
+  border-left: 5px solid rgb(228, 241, 254);
+  border-right: 5px solid rgb(228, 241, 254);
+  border-bottom: 10px solid rgb(228, 241, 254);
+  border-radius: 15px 15px 10px 10px;
+}
+.place.one {
+  margin: 50px 0px 0px 750px;
+  box-shadow: 6px 6px 5px rgba(34,34,34,0.4);
+}
+.place.two {
+  margin: 120px 0px 0px 750px;
+  box-shadow: 6px 8px 5px rgba(34,34,34,0.4);
+}
+.place.three {
+  margin: 50px 0px 0px 450px;
+  box-shadow: 6px 8px 5px rgba(34,34,34,0.4);
+}
+.place.four {
+  margin: 120px 0px 0px 450px;
+  box-shadow: 6px 8px 5px rgba(34,34,34,0.4);
+}
+.kompor {
+  width: 115px;
+  height: 30px;
+  position: absolute;
+  background-color: rgb(103, 128, 159);
+  z-index: 3;
+  margin: 380px 0px 0px 130px;
+  border-radius: 10px 10px 0px 0px;
+}
+.kompor:before {
+  border-color: transparent transparent rgb(103, 128, 159) transparent;
+  content: ' ';
+  border-style: solid;
+  border-width: 20px;
+  margin: -28px 0px 0px 7px;
+  position: absolute;
+}
+.kompor:after {
+  border-color: transparent transparent rgb(103, 128, 159) transparent;
+  content: ' ';
+  border-style: solid;
+  border-width: 20px;
+  margin: -28px 0px 0px 70px;
+  position: absolute;
+}
+.wajan {
+  width: 90px;
+  height: 35px;
+  position: absolute;
+  background-color: #6C7A89;
+  z-index: 3;
+  margin: 343px 0px 0px 143px;
+  border-radius: 0px 0px 30px 30px;
+}
+.table {
+  border: 2px solid rgb(228, 241, 254);
+  position: absolute;
+  width: 500px;
+  height: 150px;
+  border-radius: 5px 5px 0px 0px;
+  border-left: 25px solid rgb(228, 241, 254);
+  border-right: 25px solid rgb(228, 241, 254);
+  border-top: 40px solid rgb(228, 241, 254);
+  border-bottom: 0px solid transparent;
+  margin: 410px 0px 0px 60px;
+  z-index: 3;
+}
+.bumbu1 {
+  width: 70px;
+  height: 20px;
+  background-color: rgb(103, 128, 159);
+  color: white;
+  font-family: 'Tahoma';
+  position: absolute;
+  z-index: 3;
+  margin: 50px 0px 0px 770px;
+  border-radius: 5px 5px 0px 0px;
+}
+.bumbu2 {
+  width: 20px;
+  height: 40px;
+  background-color: rgb(103, 128, 159);
+  color: white;
+  font-family: 'Tahoma';
+  position: absolute;
+  z-index: 3;
+  margin: 30px 0px 0px 860px;
+  border-radius: 5px 5px 0px 0px;
+}
+.bumbu3 {
+  width: 20px;
+  height: 40px;
+  background-color: #D2D7D3;
+  color: white;
+  font-family: 'Tahoma';
+  position: absolute;
+  z-index: 3;
+  margin: 30px 0px 0px 890px;
+  border-radius: 5px 5px 0px 0px;
+}
+.bumbu4 {
+  width: 20px;
+  height: 40px;
+  background-color: #F9690E;
+  color: white;
+  font-family: 'Tahoma';
+  position: absolute;
+  z-index: 3;
+  margin: 30px 0px 0px 940px;
+  border-radius: 5px 5px 0px 0px;
+}
+.whatorder {
+  width: 150px;
+  height: 50px;
+  position: absolute;
+  background-color: rgb(228, 241, 254);
+  z-index: 5;
+  border-radius: 5px;
+  font-family: 'Gadugi';
+  text-align: center;
+  margin: 400px 0px 0px 890px;
+  cursor: pointer;	
+}
