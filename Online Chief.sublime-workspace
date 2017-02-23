@@ -1,0 +1,1209 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"core",
+				"corefiles"
+			],
+			[
+				"con",
+				"construct	CI - Class Constructor"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"mar-",
+				"margin-left"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"firs",
+				"first-child"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"call",
+				"callBacks"
+			],
+			[
+				"ca",
+				"callbacks"
+			],
+			[
+				"cou",
+				"couple-id"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"contr",
+				"controller"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"MAR",
+				"margin-left"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"poster",
+				"poster_key"
+			],
+			[
+				"post_last",
+				"post_lastuser"
+			],
+			[
+				"post_for",
+				"post_forkey"
+			],
+			[
+				"timeli",
+				"timeline-box"
+			],
+			[
+				"maincontent",
+				"main-content"
+			],
+			[
+				"post_fo",
+				"post_forusername"
+			],
+			[
+				"post",
+				"poster_username"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"profi",
+				"profilesidebar"
+			],
+			[
+				"visib",
+				"visibility"
+			],
+			[
+				"no",
+				"notif"
+			],
+			[
+				"date",
+				"datenow"
+			],
+			[
+				"follow",
+				"followtype"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"popup",
+				"popup-id"
+			],
+			[
+				"ar",
+				"array	$… = array (…)"
+			],
+			[
+				"pos",
+				"poster"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"b",
+				"text-bottom"
+			],
+			[
+				"ans",
+				"answer"
+			],
+			[
+				"mosi",
+				"mosi-status"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"poster_",
+				"poster_username"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"data",
+				"data-box"
+			],
+			[
+				"main",
+				"main-content"
+			],
+			[
+				"time",
+				"timeline-box"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"load",
+				"load_library	CI - Load Library"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"cont",
+				"contactive"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"Im",
+				"important"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"video",
+				"video	<video>"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"ques",
+				"questions"
+			],
+			[
+				"tim",
+				"timeline"
+			],
+			[
+				"uri",
+				"uri_segment	CI - URI Segment"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"_",
+				"__MYKEY__"
+			],
+			[
+				"__",
+				"__ME__"
+			],
+			[
+				"fu",
+				"fun	function …"
+			],
+			[
+				"image",
+				"imagedata"
+			],
+			[
+				"__M",
+				"__MYKEY__"
+			],
+			[
+				"ed",
+				"editors"
+			],
+			[
+				"now",
+				"nowview"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"site",
+				"sitesrc"
+			],
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"foll",
+				"followed_ukey"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"id",
+				"identity"
+			],
+			[
+				"show_",
+				"show_404"
+			],
+			[
+				"strrep",
+				"str_replace"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"answ",
+				"answer"
+			],
+			[
+				"quest",
+				"questions"
+			],
+			[
+				"coun",
+				"countaw"
+			],
+			[
+				"answer",
+				"answers_comments"
+			],
+			[
+				"case",
+				"case"
+			],
+			[
+				"wdyh",
+				"wdyh2"
+			],
+			[
+				"an",
+				"answer"
+			],
+			[
+				"num",
+				"num_rows"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"wdy",
+				"wdyh2"
+			],
+			[
+				"nu",
+				"num_rows"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"cate",
+				"category1"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"set",
+				"set_json	CI - Set content type to json"
+			],
+			[
+				"input",
+				"inputt	input - text"
+			],
+			[
+				"ses",
+				"session_userdata	CI - Session - Retrieving Session Data"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2750,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/js/app.js",
+			"settings":
+			{
+				"buffer_size": 931,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/F/ham/htdocs/akmo/js/main.js",
+			"settings":
+			{
+				"buffer_size": 5602,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/css/style.css",
+			"settings":
+			{
+				"buffer_size": 4125,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Snippet: helper",
+				"Snippet: CI - URL Helper - base_url"
+			],
+			[
+				"Snippet: ",
+				"Snippet: CI - Base Controller"
+			],
+			[
+				"Snippet: def",
+				"Snippet: defined(…)"
+			],
+			[
+				"Snippet: hel",
+				"Snippet: CI - Anchor Helper"
+			],
+			[
+				"Snippet: base",
+				"Snippet: CI - URL Helper - base_url"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/Users/Wine/Documents/pelangi.html",
+		"/F/Users/Wine/AppData/Local/Temp/Rar$DIa0.894/footer.php",
+		"/F/ham/htdocs/by/application/views/part/topmenu.php",
+		"/F/ham/htdocs/by/application/views/Home.php",
+		"/F/ham/htdocs/lulu/index.html",
+		"/F/ham/htdocs/idnwow/system/libraries/Javascript/Jquery.php",
+		"/F/ham/htdocs/idnwow/system/database/drivers/mysqli/mysqli_result.php",
+		"/F/ham/htdocs/idnwow/system/database/drivers/mysqli/mysqli_driver.php",
+		"/F/ham/htdocs/idnwow/system/core/Security.php",
+		"/F/ham/htdocs/idnwow/system/core/Utf8.php",
+		"/F/ham/htdocs/idnwow/system/core/Exceptions.php",
+		"/F/ham/htdocs/idnwow/system/core/URI.php",
+		"/F/ham/htdocs/idnwow/system/core/Input.php",
+		"/F/ham/htdocs/idnwow/application/helpers/home_helper.php",
+		"/F/ham/htdocs/idnwow/application/config/autoload.php",
+		"/F/ham/htdocs/29ck92hcvl38rula9vqr78r7r9kcnvz2/config/autoload.php",
+		"/F/ham/htdocs/29ck92hcvl38rula9vqr78r7r9kcnvz2/config/config.php",
+		"/F/ham/htdocs/idnwow/application/config/config.php",
+		"/F/ham/htdocs/idnwow/application/config/database.php",
+		"/F/ham/htdocs/idnwow/application/config/routes.php",
+		"/F/Users/Wine/Documents/Warnet/Warnet 21 Februari/drag.html",
+		"/F/Users/Wine/Documents/Warnet/Warnet 21 Februari/interact.js-master/examples/dropzones.html",
+		"/F/Users/Wine/Documents/backlink.html",
+		"/F/ham/htdocs/blurbs/testdrive.htm",
+		"/F/Users/Wine/Downloads/vue.js",
+		"/F/ham/htdocs/lulu/examples/example-2/assets/css/video-js.min.css",
+		"/F/ham/htdocs/lulu/examples/example-2/assets/video-js.min.css",
+		"/F/ham/htdocs/lulu/examples/example-2/assets/video.min.js",
+		"/F/Users/Wine/Downloads/Icon _ Semantic UI.html",
+		"/F/ham/htdocs/lulu/assets/js/jquery.flot.js",
+		"/F/ham/htdocs/akmo/js/main.js",
+		"/F/Users/Wine/Documents/Warnet/Warnet 13 Februari 2017/material-dashboard-html-v1.1.1/assets/css/material-dashboard.css",
+		"/F/xampp/htdocs/dist/semantic.js",
+		"/F/xampp/htdocs/dist/semantic.css",
+		"/F/ham/htdocs/angulartoped/css/style.css",
+		"/F/ham/htdocs/lulu/assets/css/style.css",
+		"/F/Users/Wine/Documents/Warnet/Warnet 13 Februari 2017/material-dashboard-html-v1.1.1/examples/dashboard.html",
+		"/F/Users/Wine/Documents/Warnet/Warnet 13 Februari 2017/material-dashboard-html-v1.1.1/assets/js/demo.js",
+		"/F/Users/Wine/Documents/Warnet/Warnet 13 Februari 2017/material-dashboard-html-v1.1.1/assets/js/bootstrap-notify.js",
+		"/F/Users/Wine/Documents/Warnet/Warnet 13 Februari 2017/material-dashboard-html-v1.1.1/assets/sass/md/mixins/_transparency.scss",
+		"/F/Users/Wine/Documents/Warnet/Warnet 13 Februari 2017/material-dashboard-html-v1.1.1/assets/sass/md/_typography.scss",
+		"/F/Users/Wine/Documents/Warnet/Warnet 13 Februari 2017/material-dashboard-html-v1.1.1/assets/sass/material-dashboard.scss",
+		"/F/Users/Wine/Documents/Warnet/Warnet 13 Februari 2017/wizard-list-place.html",
+		"/F/Users/Wine/AppData/Local/ElectronAPIDemos/SquirrelSetup.log",
+		"/F/Users/Wine/AppData/Local/PokemonGo/Pokecrot.exe_Url_o5eci4bvyoeblitjcgqyzuxcfxl3yfyq/1.0.0.0/user.config",
+		"/F/Users/Wine/AppData/Local/LINE/Data/LINE.ini",
+		"/F/Users/Wine/AppData/Local/LINE/Data/db/f59c00309acd23908b1254ee081d8258",
+		"/F/ham/htdocs/akmo/css/style.css",
+		"/D/SSD0/HTML UI/bs-admin-bcore/template/charts_line.html",
+		"/D/SSD0/HTML UI/bs-admin-bcore/template/assets/plugins/flot/examples/examples.css",
+		"/D/SSD0/HTML UI/bs-admin-bcore/template/assets/js/line_chart.js",
+		"/D/SSD0/HTML UI/bs-admin-bcore/template/assets/js/bar_chart.js",
+		"/D/SSD0/HTML UI/bs-admin-bcore/template/backend/source/foot.php",
+		"/F/ham/htdocs/lulu/assets/js/app.js",
+		"/F/Users/Wine/Downloads/vue-moment-master/readme.md",
+		"/F/Users/Wine/Downloads/vue-moment-master/vue-moment.js",
+		"/F/ham/htdocs/stara/application/views/home.php",
+		"/F/Users/Wine/Documents/drag.txt",
+		"/F/ham/htdocs/stara/lib/bundle.js",
+		"/D/SSD0/HTML UI/dashgum/Theme/index.html",
+		"/D/SSD0/HTML UI/dashgum/Theme/assets/css/style.css",
+		"/F/ham/htdocs/ihan/index.html",
+		"/F/ham/htdocs/angulartoped/part/productlist.html",
+		"/F/ham/htdocs/stara/lib/style.css",
+		"/F/ham/htdocs/stara/application/config/config.php",
+		"/F/Users/Wine/Documents/Koala/jasobcompresscss.css",
+		"/F/Users/Wine/Documents/Koala/jasobcompresscss.min.css",
+		"/F/ham/htdocs/blurbs/blurbs.css",
+		"/F/ham/htdocs/angulartoped/angular/docs/components/jquery-2.1.1/jquery.js",
+		"/F/ham/htdocs/coc/js/npm.js",
+		"/F/ham/htdocs/coc/idiot-attacker.php",
+		"/F/ham/htdocs/flashchat/chat/sql/mysqlDefault.sql",
+		"/F/ham/htdocs/flashchat/chat/sql/mysqlMyISAM.sql",
+		"/F/ham/htdocs/flashchat/chat/sql/mysql_conf.sql",
+		"/F/ham/htdocs/flashchat/chat/config2db.php",
+		"/F/Users/Wine/Documents/23 Januari/FlashChat_v608/chat/config2db.php",
+		"/F/Users/Wine/Documents/23 Januari/FlashChat_v608/chat/dumpsql.php",
+		"/F/ham/htdocs/by/lib/bundle.js",
+		"/J/Playlists/58319919.obml16",
+		"/F/Users/Wine/Documents/warnet 11 februari 2017/facebot-master/README.md",
+		"/F/Users/Wine/Documents/Koala/style.min.css",
+		"/F/Users/Wine/Documents/Koala/bundle.min.js",
+		"/F/xampp/htdocs/dist/components/dimmer.min.js",
+		"/F/xampp/htdocs/dist/components/modal.min.js",
+		"/F/xampp/htdocs/dist/components/transition.min.js",
+		"/F/ham/htdocs/stara/lib/index.html",
+		"/F/ham/htdocs/stara/lib/jquery.js",
+		"/F/xampp/htdocs/dist/components/button.css",
+		"/F/xampp/htdocs/dist/components/grid.min.css",
+		"/F/xampp/htdocs/dist/components/site.min.css",
+		"/F/xampp/htdocs/dist/components/site.css",
+		"/F/xampp/htdocs/dist/components/container.min.css",
+		"/F/xampp/htdocs/dist/components/checkbox.min.js",
+		"/F/xampp/htdocs/dist/components/form.min.js",
+		"/F/ham/htdocs/one/wp-includes/customize/class-wp-customize-theme-control.php",
+		"/F/ham/htdocs/one/xmlrpc.php",
+		"/F/ham/htdocs/one/wp-cron.php",
+		"/F/ham/htdocs/one/wp-config.php",
+		"/F/ham/htdocs/one/wp-includes/certificates/ca-bundle.crt",
+		"/F/ham/htdocs/one/wp-content/plugins/akismet/class.akismet-admin.php",
+		"/F/ham/htdocs/one/wp-content/plugins/akismet/akismet.php",
+		"/F/ham/htdocs/one/wp-content/plugins/index.php",
+		"/F/ham/htdocs/one/wp-content/plugins/hello.php",
+		"/F/Users/Wine/Downloads/pogo/resources/app/map/pokemon_pb2.py",
+		"/F/xampp/htdocs/29ck92hcvl38rula9vqr78r7r9kcnvz2/views/ui/home.php",
+		"/F/xampp/htdocs/29ck92hcvl38rula9vqr78r7r9kcnvz2/views/ui/explorer.php",
+		"/F/ham/htdocs/pemiluonline/ceklogin.php",
+		"/F/Users/Wine/Documents/Warnet 4 Februari 2017/malihu-custom-scrollbar-plugin-master/examples/infinite_scroll_example.html",
+		"/F/xampp/htdocs/29ck92hcvl38rula9vqr78r7r9kcnvz2/views/ui/part/gritternotif.php",
+		"/F/xampp/htdocs/29ck92hcvl38rula9vqr78r7r9kcnvz2/views/ui/footer.php",
+		"/F/ham/htdocs/blurbs/blurbs.js",
+		"/D/SSD0/HTML UI/dashgum/Theme/assets/js/gritter/css/jquery.gritter.css",
+		"/F/xampp/htdocs/assets/gritter/js/jquery.gritter.js",
+		"/F/ham/htdocs/stara/application/views/part/home.php",
+		"/F/xampp/htdocs/29ck92hcvl38rula9vqr78r7r9kcnvz2/controllers/Home.php",
+		"/F/Users/Wine/Downloads/pogo/resources/app/node_modules/pinkie/index.js",
+		"/F/Users/Wine/Downloads/pogo/resources/app/map/locales/pokemon.en.json",
+		"/F/Users/Wine/Downloads/pogo/resources/app/map/static/jquery.js",
+		"/F/Users/Wine/Downloads/pogo/resources/electron.asar",
+		"/F/Users/Wine/Downloads/pogo/resources/app/main.js",
+		"/F/ham/htdocs/pemiluonline/pemilu.sql",
+		"/F/ham/htdocs/pemiluonline/koneksi.php",
+		"/F/Users/Wine/AppData/Local/Temp/Rar$DIa0.965/master.php",
+		"/F/Users/Wine/AppData/Local/Temp/Rar$DIa0.344/proses.php",
+		"/F/Users/Wine/AppData/Local/Temp/Rar$DIa0.297/logout.php",
+		"/F/Users/Wine/AppData/Local/Temp/Rar$DIa0.224/koneksi.php",
+		"/F/Users/Wine/AppData/Local/Temp/Rar$DIa0.520/ceklogin.php",
+		"/F/Users/Wine/AppData/Local/Temp/Rar$DIa0.635/ask2.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"300px",
+			">\n",
+			"      \n",
+			"important",
+			"padding",
+			"'); ",
+			"\"assets/",
+			".square.outl",
+			"100%",
+			"dropdown",
+			"drodown",
+			"button",
+			"{\n",
+			"button",
+			".dropdown",
+			"shad",
+			"inset",
+			"scrolled",
+			"List",
+			"rgba",
+			"src=\"",
+			"assets",
+			"transi",
+			"</h4><i class=\"icon code\"></i>",
+			"\"ui ",
+			"15px",
+			"\">",
+			";\n",
+			"card",
+			"cards",
+			"(1",
+			"-image",
+			":'';",
+			"notify",
+			"<i",
+			".ui.grid",
+			"100, 50, 25, 0.4",
+			"rgba(100,50,25,0.4)",
+			"mCS-minimal-dark",
+			"blurbs_couple",
+			"Blurbs_couple",
+			"curso",
+			"Jihanto",
+			"f",
+			".bb.grid",
+			".container",
+			";\n",
+			"regExp",
+			"  \n",
+			";\n",
+			"timestamp(14)",
+			"user-se",
+			"body",
+			"});\n",
+			"afte",
+			"af",
+			"href",
+			"</a",
+			"a",
+			"e.whic",
+			"border-bottom",
+			"first.g",
+			"#si",
+			"bdrbtn",
+			".for.b",
+			".ui.button",
+			"30px",
+			"home-c",
+			"#sidebar",
+			".main-content",
+			".ui.checkbo",
+			".menu",
+			"overflow-y:hidden;",
+			"}",
+			"dblue",
+			"$('.to-f-log').click(function(){\n	$('.f-reg').hide();\n	$('.f-log').show();\n});",
+			"								\n",
+			"png",
+			"?> ",
+			"ajaxurl",
+			"version",
+			"get_option",
+			"of_get_option",
+			"}\n",
+			"include",
+			"update_option",
+			"admin",
+			"option",
+			"theme op",
+			"admin",
+			"options-framework",
+			"optionsframework_page",
+			"edit_theme_options",
+			"optionsframework_page",
+			"supertop1",
+			"a.",
+			"a",
+			"anc",
+			"an",
+			"anch",
+			"anc",
+			"anch",
+			"link",
+			"base_url",
+			"input",
+			"form",
+			"1",
+			"comment",
+			"dropdown-content",
+			"Date",
+			"gri",
+			"();",
+			"maintain_ratio",
+			"blurbs",
+			"ui",
+			"gs",
+			"userdata('key",
+			"interval",
+			"__MYKEY__",
+			"60px",
+			"replace",
+			"strto",
+			"date",
+			"ad-m-btn",
+			"escape",
+			"i.icon.comments",
+			"i.comments",
+			" \"><"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"<?php echo $src; ?>",
+			"../../\nsrc=\"../../",
+			"../../\n../../assets",
+			"</h4>",
+			"",
+			"\"",
+			"<i style=\"display:none !important;\"",
+			"menu",
+			"Menu",
+			".grid",
+			"timestamp(6)",
+			"sub-menu",
+			"$this->ion_auth->user()->row()->mykey",
+			"ad-aj-btn",
+			"\"bb",
+			".bb",
+			"blurbs_slider",
+			"Blurbs_slider",
+			"el",
+			"op",
+			"Blurbs_form",
+			"blurbs_form",
+			"Blurbs_date",
+			"blurbs_date",
+			".bb",
+			"Blurbs_background",
+			"blurbs_background",
+			"",
+			".bb",
+			"",
+			".bb",
+			"couple-data",
+			"couple-id",
+			"couple-data",
+			"couple-id",
+			"blurbs_couple",
+			"blurbs.couple",
+			"",
+			"$",
+			"dropdown-id",
+			"hover",
+			"blurbs_menu",
+			"Blurbs_menu",
+			".content",
+			".contents",
+			".content",
+			".bb",
+			"1px",
+			"background: transparent none !important;",
+			"16",
+			"15",
+			"14",
+			"13",
+			"12",
+			"11",
+			"10",
+			"9",
+			"8",
+			"7",
+			"6",
+			"5",
+			"4",
+			"3",
+			"2",
+			"1",
+			".bb",
+			"Punch Me",
+			"gray",
+			"orange",
+			"pink",
+			"red",
+			"green",
+			"teal",
+			"yellow",
+			"$ayam",
+			"now_iamin",
+			"2500",
+			"animate({bottom: '100%'},\"slow\")",
+			"$this->ion_auth->user()->row()->username;",
+			"$notifikasi->log_identity",
+			"$notifikasi->last_user",
+			"",
+			"$number",
+			"$post['thash'];",
+			"date",
+			"$post['thash']",
+			"viewer_nonmem",
+			"viewer",
+			"gift",
+			"$post->date",
+			"$data",
+			"'see/'",
+			"member/edit/account",
+			"member/verivikasi",
+			"member/ruang-karya",
+			"$invoice->",
+			", strtotime($invoice->date))",
+			"$invoice->due_date",
+			"$list[nama_form]",
+			"$list[urutan]",
+			"$list[nama_form]",
+			"$list[id]",
+			"",
+			"class=\"item lefted-sidebar\"",
+			"",
+			"$content->date",
+			"$result",
+			"$give->date",
+			"$content['date']",
+			"$mament->date",
+			"$this->input->input_stream",
+			"$give->date",
+			"$content['date']",
+			"$content",
+			"d m Y"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1532,
+								1532
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 348.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "assets/js/app.js",
+					"settings":
+					{
+						"buffer_size": 931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								925,
+								921
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/F/ham/htdocs/akmo/js/main.js",
+					"settings":
+					{
+						"buffer_size": 5602,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								387,
+								387
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/css/style.css",
+					"settings":
+					{
+						"buffer_size": 4125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3542,
+								3542
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2572.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.94944388271,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 118.0,
+	"status_bar_visible": true
+}
